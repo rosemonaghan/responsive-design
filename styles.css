@@ -1,0 +1,20 @@
+h1 {
+  color: blue;
+  font-size: 60px;
+font-family: 'Butterfly Kids' , cursive;
+}
+.header-1 {
+  background-color: #23AF93;
+}
+p {
+  color: red;
+  font-size: 30px;
+  font-family: cursive;
+}
+  img {
+    height: 300px;
+    width:250px;
+}
+.cafe {
+  object-fit: cover;
+}
